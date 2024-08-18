@@ -3,8 +3,4 @@
 	url = https://github.com/yuedenu/TinyInfiniTensor.git
 [submodule "learning-cxx"]
     path = learning-cxx
-<<<<<<< HEAD
     url = https://github.com/yuedenu/learning-cxx.git
-=======
-    url = https://github.com/yuedenu/learning-cxx.git
->>>>>>> 57e75b35f56dfa6f667d9321660f8a01a94f3fca
